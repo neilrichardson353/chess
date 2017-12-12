@@ -6,4 +6,5 @@ class Game
     # ???
     Board.new
   end
+  
 end
