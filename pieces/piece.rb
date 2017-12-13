@@ -1,7 +1,8 @@
 class Piece
 
-  def initialize
+  #attr_accessor :pos
 
+  def initialize
   end
 
 
